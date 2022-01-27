@@ -1,0 +1,3 @@
+[submodule "gestionEquiposDAWEquipo4JAVA"]
+	path = gestionEquiposDAWEquipo4JAVA
+	url = git@github.com:davCesur/gestionEquiposDAWEquipo4JAVA
